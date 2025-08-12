@@ -1,0 +1,3 @@
+-- Removed all demo/seed data, keeping only table structure
+-- Seed data for RACE PLANNER
+-- No demo data - users will create their own accounts and data
